@@ -1,11 +1,14 @@
 # indent_cr
 
 indent braces and move cursor to suitable position
+
 Version: 0.0.1
 OriginalAuthor: acustodioo <http://github.com/acustodioo>
 Author : pekepeke <pekepekesamurai+vim@gmail.com>
 License: GPL
          <http://www.gnu.org/licenses/gpl.html>
+
+## INTRODUCTION
 
 *indent_cr* is a Vim plugin to provide indent braces 
 and move cursor to suitable position at press <CR> key
